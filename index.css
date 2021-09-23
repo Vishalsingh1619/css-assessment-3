@@ -1,0 +1,154 @@
+body{
+    background: rgb(255,255,255);
+    background: linear-gradient(90deg, rgba(255,255,255,1) 0%, rgba(156,244,37,1) 100%);
+}
+
+.box1{
+    border: 10px solid red;
+    background-color: white;
+    border-radius: 10px;
+    height: 180px;
+    width: 500px;
+    margin-right: 500px;
+    margin-left: 600px;
+    box-shadow: 10px 10px black;
+}
+
+h1{
+    color: darkred;
+    text-align: center;
+    font-style: italic;
+    font-weight: bolder;
+    text-shadow: 2px 3px black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: block;
+}
+
+.container{
+    border: 10px solid darkviolet;
+    height: 1000px;
+    width: 99%;
+}
+
+.offer{
+    border: 10px solid red;
+    background-color: #ccff99;
+    display: flex;
+    border-radius: 10px;
+    position: fixed;
+    top: 600px;
+    height: 110px;
+    width: 500px;
+    margin-right: 500px;
+    margin-left: 590px;
+    box-shadow: 10px 10px black;
+    justify-content: space-around;
+}
+
+h2{
+    color: brown;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px black;
+    padding-left: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+h3{
+    color: brown;
+    font-style: italic;
+    text-align: center;
+    text-shadow: 1px 1px black;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
+.box2{
+    border: 10px solid red;
+    background-color: white;
+    position: absolute;
+    top: 250px;
+    display: flex;
+    height: 300px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+}
+
+h2{
+    color: brown;
+    text-align: center;
+    text-shadow: 1px 1px black;
+    padding-bottom: 20px;
+}
+
+.box3{
+    border: 10px solid red;
+    background-color: white;
+    position: absolute;
+    top: 250px;
+    right: 20px;
+    display: flex;
+    height: 300px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+}
+
+.box4{
+    border: 10px solid red;
+    background-color: white;
+    position: absolute;
+    top: 800px;
+    display: flex;
+    height: 300px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+}
+
+.box5{
+    border: 10px solid red;
+    background-color: white;
+    position: absolute;
+    top: 800px;
+    right: 20px;
+    height: 300px;
+    width: 350px;
+    border-radius: 10px;
+    box-shadow: 10px 10px black;
+}
+
+button{
+    background-color: violet;
+    height: 60px;
+    border-radius: 30%;
+}
+
+.box6{
+    background-color: lightgreen;
+    float: left;
+    height: 270px;
+    width: 575px;
+    padding-left: 10px;
+}
+
+.box7{
+    background-color: lightgreen;
+    float: right;
+    height: 270px;
+    width: 575px;
+    padding-left: 10px;
+}
+
+.box8{
+    background-color: lightgreen;
+    position: absolute;
+    top: 390px;
+    left: 15px;
+    height: 300px;
+    width: 1150px;
+}
